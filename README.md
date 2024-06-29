@@ -18,7 +18,7 @@ Welcome to the Sport Celebrity Image Classification Model repository. This proje
 To get started with the Sport Celebrity Image Classification Model, clone the repository and follow the setup instructions.
 
 ```bash
-git clone https://github.com/yourusername/Sport-Celebrity-Image-Classification.git
+git clone https://github.com/ujaslathiya/Sport-Celebrity-Image-Classification.git
 cd Sport-Celebrity-Image-Classification
 ```
 
